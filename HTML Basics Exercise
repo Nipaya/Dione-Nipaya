@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>UC Hymn</title>
+
+<style>
+    body{text-align: center; background-color: aqua;}
+    h1{background-color: aqua; display: block; border: 5px black;}
+    pre{font-size: 25px; font-family: 'Times New Roman', Times, serif; background-color: aqua; display: inline-block; text-align: center;}
+    img{border-radius: 50%; border: 3px solid black;}
+    p{font-size: 40px; font-family: 'Times New Roman', Times, serif; background-color: aqua; color: black; border: 3px black;}
+</style>
+    </head>
+
+<body>
+
+<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t1.6435-9/104758349_161860202047341_1640571139140135042_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGm_DG6yXpzrgIM53pmknzpBX5jsYpS8cQFfmOxilLxxEQyiIo_0SZxWiE563BxtuD5jCJGKBoUYEio-tiNaBq9&_nc_ohc=fXf_KutdmrYAX-4DufL&_nc_oc=AQmaZyXTZ22t8a8SvWFqMA4BrfQfGVodTrZoopHkkVEuWlTXfBbF3n6qG1_3r7hny6Q&_nc_ht=scontent-hkt1-2.xx&oh=1eeeb011fea5a090b8cd83ea98d7ca70&oe=61B61DCB" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/145019769_247027870197240_4373213603592753866_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeG6tI2o-gvC8UmeMetRNYjvDU7rEdSMWuwNTusR1Ixa7LAuFGCyb4JE6iORrD8C7NlJIJScEpZpn-s6tkYxmVdx&_nc_ohc=61tk8sQxea0AX_2NeHc&tn=dCUioPmcVJvr9AoD&_nc_ht=scontent-hkt1-1.xx&oh=a764d5e40f662396b17a31ea887909ee&oe=61B741E3" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t1.6435-9/89740909_128916182008410_1259358331869331456_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHcbaqOMYcw0KiWCGK1-R8oGCoLHizCdz0YKgseLMJ3PSqv7cHWH2la1sdtfmrw5Mn_WCN3Iek1wu9XmALOvJ5s&_nc_ohc=m8Sp3u1Uh0EAX-HTWtr&_nc_ht=scontent-hkt1-2.xx&oh=1c0e7131005c0666b034a6e77dfc0a4f&oe=61B61EED" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t1.6435-9/89569972_127188405514521_7591806801117446144_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEx82P2fHrN34slmubXStyWrnR3PQJMnv-udHc9Akye_6ZEdwNOE1pcWj5vT2APbwRJIVl79YdU_eTNk_6XJgNX&_nc_ohc=naCWUR4wIHQAX_5SQuj&_nc_ht=scontent-hkt1-2.xx&oh=80a100149399b38862249bd37a8e8dd0&oe=61B647F0" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/87626637_123620425871319_8266166775972888576_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGR0CNzag5JNNHWmi0ErvFaWsaty7ybRGlaxq3LvJtEaQfmeXemQS1dpbBeGUojSSJfjWf6Pzh-hb4Yal27SMxT&_nc_ohc=wzwnDYx91wAAX9WW_4t&_nc_ht=scontent-hkt1-1.xx&oh=5646c36cd8bc631f03356f0a4d8c4051&oe=61B9199A" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t1.6435-9/86969949_120190612880967_8795179791901786112_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF5ZhO2E5wOyDUveE8yk-oweGIYoEWQDe54YhigRZAN7sm3VUJcjVh6RkDKJPnxiclwhMZEK-44cprbIPQKtGFD&_nc_ohc=Uaxp5zvespEAX-l26zc&_nc_oc=AQmc5nodmYWE7pNhsx8vPic7_niioEC_nszOKOj9CKVqWeaHWLxGTeay5rk8c6i-jzE&_nc_ht=scontent-hkt1-2.xx&oh=abde2b85dcf5794a3e4c3f388bdcf5f2&oe=61B802C3" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t1.6435-9/84689285_113594350207260_4964213781577072640_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGtPWwQl47sVIFlRX1m0scxReKkivgxL6ZF4qSK-DEvpuZN0wrOdhNmIMhBAhCDpb675MgN13pJgd3bEj52r1Qp&_nc_ohc=NGD8tSSPbgsAX-0dXxF&_nc_ht=scontent-hkt1-2.xx&oh=d50e5846ceb2f98d019a996c820bc2a1&oe=61B6E220" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/67315923_777396865995749_2625826868858716160_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEv4EvuI2QI-n3xe2vI-00tUhbejRCjredSFt6NEKOt57lDn3mybk89HXDtkOiuULclYNb_u1WqTaDMm8cZtObH&_nc_ohc=bywvKf9b360AX_RaiWE&_nc_ht=scontent-hkt1-1.xx&oh=e38e404d2bf70e494b4607af5d580b2d&oe=61B8CF33" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/50454649_666513817084055_5621267477771059200_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEhFqiU-3YAWbe5J7I8IhUSUgRyvqL3S1hSBHK-ovdLWNOAWwL84VogHcALddjx-fG2g5X8p9Fls2osgSmE0lzI&_nc_ohc=AqrkKR1VkxkAX-6_QbA&tn=dCUioPmcVJvr9AoD&_nc_ht=scontent-hkt1-1.xx&oh=40bfa9da7bb8b264df9a5aad26ef0f63&oe=61B9C534" width="290" height="290">&nbsp;
+<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t31.18172-8/29872843_492469334488505_1386580337103874814_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_eui2=AeErwV8aOszz0axwvA7dgDD4GSiE00R2aMcZKITTRHZoxy7NbGhTg5WkvNcfJiBXmJBp7Fu8yljlU_ZKsz3lWogi&_nc_ohc=7HRb9MCUjEIAX8l_SlN&_nc_ht=scontent-hkt1-2.xx&oh=f6504cf79945de85b5e4fce8450b3100&oe=61B6CB72" width="290" height="290">&nbsp;
+
+<br>
+<br>
+<br>
+<p><a href="https://www.google.com/">Google</a></p>
+<p><a href="https://mail.google.com/mail/u/0/#search/louisnipaya2%40gmail.com">Email Link</a></p>
+
+<h1>UC Hymn</h1>
+
+<pre font style="color:rgb(255,0 ,0);">
+    Mid these fair Visayan Isles<br>
+    Neath these azure blue skies<br>
+    Stands UC our beloved<br>
+    Lofty in all her glory<br>
+</pre>
+<br>
+<pre font style="color:rgb(255,165,0);">
+    Sparks of wisdom, hope and joy<br>
+    Always kindling in our hearts<br>
+    Thy precious name, thy glorious fame<br>
+    Will shine through all eternit<br>
+</pre>
+<br>
+<pre font style="color:rgb(0,128,0);">
+    Thy name shall ever be our guide<br>
+    Thy light our inspiration<br>  
+    Keep up the light a glowing bright<br>  
+    To thy portals dear ALMA MATER<br>  
+</pre>
+<br>
+<pre font style="color:rgb(75,0,130);">
+    Hail! Praises be to thee<br>
+    Onwards show us the way<br>
+    Faithful and true we'll always be<br>
+    To thee our ALMA MATER dear.<br>
+</pre>
+
+</body>
+</html>
